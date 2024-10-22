@@ -38,5 +38,7 @@
  ## OUTPUT
  
  
+ [EXERCISE 1.2  (1).pdf](https://github.com/user-attachments/files/17472806/EXERCISE.1.2.1.pdf)
+
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
